@@ -1,2 +1,2 @@
-console.log('bye')
+console.log('1')
 
